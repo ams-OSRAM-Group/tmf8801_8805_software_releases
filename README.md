@@ -1,5 +1,5 @@
-# TMF8801/TMF8805 Software Releases
-TMF8801/TMF8805 Software Releases repository
+# TMF8701/TMF8801/TMF8805 Software Releases
+TMF8701/TMF8801/TMF8805 Software Releases repository
 
 Software release file for ams-OSRAM dToF sensors - see detailed description on [ams-osram.com](https://ams-osram.com) website
 - [TMF8701](https://ams-osram.com/tmf8701) - single zone distance sensor 0 - 60 cm
